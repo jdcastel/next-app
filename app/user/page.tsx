@@ -5,7 +5,7 @@ const UserPage = () => {
   return (
     <div>
         UserPage<br/>
-        <Link href="/new">New</Link><br/>
+
     </div>
   )
 }
